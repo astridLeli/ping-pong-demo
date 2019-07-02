@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(192, 212, 255)}
+#canvas{
+    display: block;
+}
+#startBtn{
+    border: 6px solid goldenrod;
+    background-color: aqua;
+    font-size: 60px;
+    color: blueviolet;
+    position: absolute;
+    left: 15%;
+    top: 30%;
+    width: 200px;
+
+}
+#restartBtn{
+    display : none;
+    border: 6px solid goldenrod;
+    background-color: aqua;
+    font-size: 40px;
+    color: blueviolet;
+    position: absolute;
+    left: 15%;
+    top: 30%;
+    width: 200px;
+
+}
